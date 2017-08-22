@@ -1,4 +1,5 @@
 # devops-aula2
 # Juliana Paes
-# Paolla Oliveira
+# Amor
 # Maria Fernanda Cândido
+# Taina
